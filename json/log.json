@@ -1,0 +1,35 @@
+{
+    "experience": [
+      {
+        "date": "2025-01-17",
+        "title": "JSON 기반 데이터 관리 시스템 구현",
+        "text": "로그를 html에 하드코딩하는 방식에서 json으로 동적 관리하는 시스템으로 구축"
+      },
+      {
+        "date": "2025-01-19",
+        "title": "SVG 코드 파일 적용 완료",
+        "text": "Special thanks to <a href='https://github.com/nbelyh' class='highlighted-link' target='_blank'>Nikolay Belykh</a>'s <a href='https://github.com/nbelyh/editsvgcode' class='highlighted-link' target='_blank'>\"editsvgcode\"</a> and <a href='https://icon666.com/collection/data_analytics_njqpo4fg8' class='highlighted-link' target='_blank'>icon666</a>"
+      },
+      {
+        "date": "2025-01-21",
+        "title": "utteranc.es를 사용한 댓글 기능 추가",
+        "text": "Special thanks to <a href='utteranc.es' class='highlighted-link' target='_blank'>Utterances</a>"
+      },
+      {
+        "date": "2025-01-25",
+        "title": "STRONGHOLD 각 섹션 동적 관리 시스템 구현",
+        "text": "NodeList로 반환된 nav와 section 클래스들을 함수로 동기화하는 방식에서 data- 속성을 활용, 명시적으로 연결하는 방식으로 변경"
+      },
+      {
+        "date": "2025-02-01",
+        "title": "STRONGHOLD 완전 동적 구현 완료",
+        "text": "Javascript를 이용한 Memory Delegation을 적용해 모든 세부 세션들을 동적 할당하는 시스템 구축 완료"
+      },
+      {
+        "date": "2025-02-07",
+        "title": "포스트 영역 완전 구현 완료",
+        "text": "포스트 내용을 배열화하여 이미지 파일과 유튜브 영상 처리 기능을 구현."
+      } 
+    ]
+  }
+  
