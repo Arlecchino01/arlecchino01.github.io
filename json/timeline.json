@@ -14,7 +14,12 @@
         "date": "2025-02-01",
         "title": "STRONGHOLD 1.0 Release",
         "text": "전 데이터 동적 관리 및 Event Delegation을 적용하여 Contents 섹션을 완공. 이 기점으로 STRONGHOLD 1.0 버전을 릴리스."
-      } 
+      },
+      {
+        "date": "2025-04-23",
+        "title": "Arlecchino01 (Main Account)로 다시 이전 완료",
+        "text": "일관성 및 향후 신뢰성을 위하여 메인 계정인 arlecchino01.github.io로 다시 변경 (롤백)"
+      }  
     ]
   }
   
